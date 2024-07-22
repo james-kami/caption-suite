@@ -17,7 +17,7 @@ output_language=en
 bash test_and_visualize.sh $video_folder $output_folder $pdvc_model_path $output_language
 
 video_folder=visualization/videos
-output_folder=visualization/anet_out
+output_folder=visualization/anet_out_vs
 pdvc_model_path=save/anet/model-best.pth
 output_language=en
 bash test_and_visualize.sh $video_folder $output_folder $pdvc_model_path $output_language
