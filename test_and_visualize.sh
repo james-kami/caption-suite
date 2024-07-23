@@ -53,7 +53,7 @@ echo "START GENERATE METADATA"
 python video_backbone/TSP/data/generate_metadata_csv.py --video-folder $DATA_PATH --output-csv $METADATA_CSV_FILENAME
 
 FEATURE_DIR=$OUTPUT_FOLDER/${RELEASED_CHECKPOINT}_stride_${STRIDE}/
-mkdir -p $OUTPUT_DIR
+mkdir -p $OUTPUT_FOLDER
 
 echo "START EXTRACT VIDEO FEATURES"
 python video_backbone/TSP/extract_features/extract_features.py \

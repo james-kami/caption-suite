@@ -20,7 +20,25 @@ cfgs/proposal/debug/
 __pycache__/
 *.py[cod]
 *$py.class
-
+README_OFFICAL_BAK.md
+visualization/anet_out_vs/
+visualization/custom_out/r2plus1d_34-tsp_on_activitynet_stride_16/2024Y05M28D03H33M50S00_output.pkl
+visualization/custom_out/r2plus1d_34-tsp_on_activitynet_stride_16/D01H14M44S00_output.pkl
+visualization/custom_out/r2plus1d_34-tsp_on_activitynet_stride_16/D02H19M36S00_output.pkl
+visualization/custom_out/r2plus1d_34-tsp_on_activitynet_stride_16/D02H24M03S00_output.pkl
+visualization/custom_out/r2plus1d_34-tsp_on_activitynet_stride_16/D18H10M01S00_output.pkl
+visualization/custom_out/r2plus1d_34-tsp_on_activitynet_stride_16/D20H41M47S00_output.pkl
+visualization/custom_out/vis_videos/D01H14M44S00.mp4
+visualization/custom_out/vis_videos/D02H19M36S00.mp4
+visualization/custom_out/vis_videos/D02H24M03S00.mp4
+visualization/custom_out/vis_videos/D18H10M01S00.mp4
+visualization/custom_out/vis_videos/D20H41M47S00.mp4
+visualization/custom_out_bak/
+visualization/videos/D01H14M44S00.mp4
+visualization/videos/D02H19M36S00.mp4
+visualization/videos/D02H24M03S00.mp4
+visualization/videos/D18H10M01S00.mp4
+visualization/videos/D20H41M47S00.mp4
 # C extensions
 *.so
 
